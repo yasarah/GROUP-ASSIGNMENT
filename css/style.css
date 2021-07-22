@@ -1,0 +1,25 @@
+a:link, a:visited
+	{	background-color: #E0BBE4;
+		color:black;
+		text-decoration: none;
+		padding: 16px;
+		text-align: center;
+		display: inline-block;
+		font-family: verdana;
+	}
+
+
+a:hover
+	{
+		color:purple;
+		background-color: lightgray;
+		text-decoration: underline;
+	}
+
+a:active
+	{
+		color: black;
+		background-color: lightgray;
+		text-decoration: underline;
+	}
+
